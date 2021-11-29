@@ -12,6 +12,7 @@ In terms of numbers, the overwhelming majority of riders and drivers are in Urba
 - Much like the fare profit didn’t show as much spread as the number of rides and number of drivers, the Average Fare per Ride was grouped fairly close together. Rural areas had the highest Average Fare per Ride at $34.62 per ride, which is 1.12 times higher than Suburban areas ($30.97), and 1.41 times higher than Urban areas ($24.53).
   - With a range of just over ten dollars, the data shows that while Rural areas are more profitable on a by-ride basis, they only account for about 6.81% of the profits in 2019.
 - Average Fare per Driver has a little bit larger spread – Rural areas ($55.49) are roughly 3.35 times higher than Urban areas ($16.57), and 1.4 times higher than Suburban areas ($39.50), which are 2.38 times higher than Urban areas.
+
 A comprehensive look at the data shows that while *fares* may be lower in Urban areas than Suburban or Rural areas, the use of ride sharing is much higher in Urban areas, leading to higher profits. While this can partially be addressed by increasing the number of drivers in the other two settlement categories, there is no data in the provided material to suggest an increase in rides or profits from either of these areas. More data and careful observation might offer more insights.
 ## **Summary**
 Based on the data summary and the line graph (see chart below) depicting the trends of the first four months of 2019, I have a few ideas on how to strengthen PyBer’s integration into Rural and Suburban communities.
